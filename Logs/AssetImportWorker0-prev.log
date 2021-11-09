@@ -1,0 +1,338 @@
+Using pre-set license
+Built from '2021.1/staging' branch; Version is '2021.1.7f1 (d91830b65d9b) revision 14227504'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.1288; Version 2009; 64bit' Language: 'en' Physical Memory: 16310 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.1.7f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/STUWU/Documents/GitHub/Benchmark
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+52849
+Successfully changed project path to: C:/Users/STUWU/Documents/GitHub/Benchmark
+C:/Users/STUWU/Documents/GitHub/Benchmark
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 73.05 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.7f1 (d91830b65d9b)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/STUWU/Documents/GitHub/Benchmark/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3060 Ti (ID=0x2486)
+    Vendor:   NVIDIA
+    VRAM:     8050 MB
+    Driver:   27.21.14.6140
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56888
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002579 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 88.21 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.241 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002243 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\STUWU\Documents\GitHub\Benchmark\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\STUWU\Documents\GitHub\Benchmark\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 76.59 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.993 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.60 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3385 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 130.1 MB.
+System memory in use after: 130.2 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 3839.
+Total: 2.352600 ms (FindLiveObjects: 0.248000 ms CreateObjectMapping: 0.158000 ms MarkObjects: 1.844000 ms  DeleteObjects: 0.101700 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Ressources/Fonts/Poppins-BoldItalic.ttf
+  artifactKey: Guid(b34b39a68e98fd74cba12818b62d8e88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ressources/Fonts/Poppins-BoldItalic.ttf using Guid(b34b39a68e98fd74cba12818b62d8e88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbd4364df21a7c88826f77ae39be98a7') in 0.106157 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/Ressources/Fonts/Poppins-Medium.ttf
+  artifactKey: Guid(77347c09c107438498e1cff848e8f2d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ressources/Fonts/Poppins-Medium.ttf using Guid(77347c09c107438498e1cff848e8f2d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d8f2af1a13aa9fc73aaf5200df7a148') in 0.016095 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000321 seconds.
+  path: Assets/Ressources/Fonts/Poppins-Bold.ttf
+  artifactKey: Guid(2a8b3e66937c9804ba8a2e50ca12fb76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ressources/Fonts/Poppins-Bold.ttf using Guid(2a8b3e66937c9804ba8a2e50ca12fb76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '243bf4118f097bb444787eec84f18f0e') in 0.016010 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000109 seconds.
+  path: Assets/Ressources/Fonts/Poppins-Italic.ttf
+  artifactKey: Guid(9ef306b508b110247930669cd5c71fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ressources/Fonts/Poppins-Italic.ttf using Guid(9ef306b508b110247930669cd5c71fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '795456e7fbf3dda130b442109389f466') in 0.019651 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000130 seconds.
+  path: Assets/Ressources/Fonts/Poppins-ExtraBoldItalic.ttf
+  artifactKey: Guid(5f03d7a987660244db01df17e593937b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ressources/Fonts/Poppins-ExtraBoldItalic.ttf using Guid(5f03d7a987660244db01df17e593937b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fbc200ea98bfecb57137ca2648473dc') in 0.027748 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/Ressources/Fonts/Poppins-SemiBoldItalic.ttf
+  artifactKey: Guid(784f5bbfec083494bab4ea2d10aef298) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ressources/Fonts/Poppins-SemiBoldItalic.ttf using Guid(784f5bbfec083494bab4ea2d10aef298) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5129666c4c8db5c7bfdae8fc925e3079') in 0.026549 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000113 seconds.
+  path: Assets/Ressources/Fonts/Poppins-Light.ttf
+  artifactKey: Guid(2a5eee7405f45d34eafdf6f9dec7fab3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ressources/Fonts/Poppins-Light.ttf using Guid(2a5eee7405f45d34eafdf6f9dec7fab3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b26615b6673a201ea042e91d4b7260f4') in 0.020420 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Ressources/Fonts/SourceCodePro-Medium.ttf
+  artifactKey: Guid(60f946c7c48eac244be3d5908311e8f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ressources/Fonts/SourceCodePro-Medium.ttf using Guid(60f946c7c48eac244be3d5908311e8f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18bd74b01f19cb210428fc0dba2d6a7a') in 0.026427 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000110 seconds.
+  path: Assets/Ressources/Fonts/Poppins-Regular.ttf
+  artifactKey: Guid(500619381fa04604aa02a88d74a4d6a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ressources/Fonts/Poppins-Regular.ttf using Guid(500619381fa04604aa02a88d74a4d6a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a3c28b0358ee0a4f12e08c2ff7e018a') in 0.020573 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/Ressources/Fonts/Poppins-ExtraBold.ttf
+  artifactKey: Guid(63a91c351c27bd846b1ad2d16e81f16c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ressources/Fonts/Poppins-ExtraBold.ttf using Guid(63a91c351c27bd846b1ad2d16e81f16c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc401c8daa4bead1a12e0d3926ab5d57') in 0.024617 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000124 seconds.
+  path: Assets/Ressources/Fonts/Poppins-ThinItalic.ttf
+  artifactKey: Guid(02154041f062ba04fabc769389861272) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ressources/Fonts/Poppins-ThinItalic.ttf using Guid(02154041f062ba04fabc769389861272) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '624d9124b39517edbe2bfec1324a1b1c') in 0.023171 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000107 seconds.
+  path: Assets/Ressources/Fonts/Poppins-Black.ttf
+  artifactKey: Guid(662ed8755de3e8f439466fd3ce68e126) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ressources/Fonts/Poppins-Black.ttf using Guid(662ed8755de3e8f439466fd3ce68e126) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ded8c7b733b5c1cd08207de487117ab7') in 0.015734 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/Ressources/Fonts/Poppins-SemiBold.ttf
+  artifactKey: Guid(093c448c7812a3d409d7c2983e696aef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ressources/Fonts/Poppins-SemiBold.ttf using Guid(093c448c7812a3d409d7c2983e696aef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef343cffb4177dcd002c8eb5577eed8e') in 0.022028 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/Ressources/Fonts/Poppins-BlackItalic.ttf
+  artifactKey: Guid(b08d96e687f9a124596f4d1af8fa8348) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ressources/Fonts/Poppins-BlackItalic.ttf using Guid(b08d96e687f9a124596f4d1af8fa8348) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54e0853a3879cb4833351e275ea74db3') in 0.019404 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/Ressources/Fonts/Poppins-LightItalic.ttf
+  artifactKey: Guid(a227b28987dd8b54c898f3e6007a099d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ressources/Fonts/Poppins-LightItalic.ttf using Guid(a227b28987dd8b54c898f3e6007a099d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7280b4d92c0cef1c8a03980388b45b0') in 0.019788 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000137 seconds.
+  path: Assets/Ressources/Fonts/Poppins-ExtraLightItalic.ttf
+  artifactKey: Guid(40b850d68c35fa140b9f1f38e2393f6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ressources/Fonts/Poppins-ExtraLightItalic.ttf using Guid(40b850d68c35fa140b9f1f38e2393f6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c809d7e31fb8749b395c65c1afb5d7a') in 0.022628 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/Ressources/Fonts/Poppins-MediumItalic.ttf
+  artifactKey: Guid(16cd05f64a567f54a8b4db400bbcb28c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ressources/Fonts/Poppins-MediumItalic.ttf using Guid(16cd05f64a567f54a8b4db400bbcb28c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '208e3a3416813d2764a9290d3d0c9677') in 0.021608 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Ressources/Fonts/Poppins-ExtraLight.ttf
+  artifactKey: Guid(8c9e7d3acb88bf741a4d518f7922be60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ressources/Fonts/Poppins-ExtraLight.ttf using Guid(8c9e7d3acb88bf741a4d518f7922be60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06f9dd3e4e5f1905999b378c6b0f293f') in 0.017347 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Assets/Ressources/Fonts/Poppins-Thin.ttf
+  artifactKey: Guid(caaf4521d9dc16a4f85b7f3278b60db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ressources/Fonts/Poppins-Thin.ttf using Guid(caaf4521d9dc16a4f85b7f3278b60db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b2309b50c1c486fa66ce1989b6cf434') in 0.018342 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 37.802667 seconds.
+  path: Assets/Ressources/Scripts/Benchmarker.cs
+  artifactKey: Guid(f4aa9e43470b94b43b14dab8f6e5e225) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ressources/Scripts/Benchmarker.cs using Guid(f4aa9e43470b94b43b14dab8f6e5e225) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4eaf391a96f9bfde86f4e7ba7a531b08') in 0.010316 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 212.203222 seconds.
+  path: Assets/Ressources/Scripts/Benchmarker.cs
+  artifactKey: Guid(f4aa9e43470b94b43b14dab8f6e5e225) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ressources/Scripts/Benchmarker.cs using Guid(f4aa9e43470b94b43b14dab8f6e5e225) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1aaf790cd70153e2443b6d1b2e5fe470') in 0.002977 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 13.827810 seconds.
+  path: Assets/Ressources/Scripts/Benchmarker.cs
+  artifactKey: Guid(f4aa9e43470b94b43b14dab8f6e5e225) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ressources/Scripts/Benchmarker.cs using Guid(f4aa9e43470b94b43b14dab8f6e5e225) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98758554fddc1c35a3c62c5a89bd8994') in 0.002389 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002886 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\STUWU\Documents\GitHub\Benchmark\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\STUWU\Documents\GitHub\Benchmark\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.99 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.881 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.77 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3386 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.0 MB.
+System memory in use after: 141.1 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 4172.
+Total: 2.284600 ms (FindLiveObjects: 0.272100 ms CreateObjectMapping: 0.164300 ms MarkObjects: 1.764800 ms  DeleteObjects: 0.082200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002384 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\STUWU\Documents\GitHub\Benchmark\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\STUWU\Documents\GitHub\Benchmark\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.63 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.104 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.28 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3367 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 140.4 MB.
+System memory in use after: 140.5 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 4176.
+Total: 2.326100 ms (FindLiveObjects: 0.298700 ms CreateObjectMapping: 0.170400 ms MarkObjects: 1.766500 ms  DeleteObjects: 0.089500 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2.53 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.0 MB.
+System memory in use after: 74.1 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 4176.
+Total: 2.500600 ms (FindLiveObjects: 0.256300 ms CreateObjectMapping: 0.147700 ms MarkObjects: 1.947400 ms  DeleteObjects: 0.148500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002182 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\STUWU\Documents\GitHub\Benchmark\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\STUWU\Documents\GitHub\Benchmark\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.858 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.69 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3367 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 140.4 MB.
+System memory in use after: 140.5 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 4180.
+Total: 2.438900 ms (FindLiveObjects: 0.294100 ms CreateObjectMapping: 0.147400 ms MarkObjects: 1.903200 ms  DeleteObjects: 0.093500 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2.63 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.1 MB.
+System memory in use after: 74.2 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 4180.
+Total: 2.350600 ms (FindLiveObjects: 0.270500 ms CreateObjectMapping: 0.162700 ms MarkObjects: 1.784300 ms  DeleteObjects: 0.132700 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2.60 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.1 MB.
+System memory in use after: 74.2 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 4180.
+Total: 2.538900 ms (FindLiveObjects: 0.264900 ms CreateObjectMapping: 0.156700 ms MarkObjects: 2.035800 ms  DeleteObjects: 0.080800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003212 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\STUWU\Documents\GitHub\Benchmark\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\STUWU\Documents\GitHub\Benchmark\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.63 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.870 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.86 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3367 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 140.5 MB.
+System memory in use after: 140.6 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 4184.
+Total: 2.146800 ms (FindLiveObjects: 0.272700 ms CreateObjectMapping: 0.159600 ms MarkObjects: 1.624500 ms  DeleteObjects: 0.089200 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
