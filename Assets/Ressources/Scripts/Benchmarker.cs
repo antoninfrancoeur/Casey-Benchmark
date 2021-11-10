@@ -34,6 +34,8 @@ public class Benchmarker : MonoBehaviour {
 
 
     private void Start () {
+        Application.targetFrameRate = 0;
+        QualitySettings.vSyncCount = 0;
         cpuInfo.SetText(SystemInfo.processorType);
         gpuInfo.SetText(SystemInfo.graphicsDeviceName);
     }
@@ -182,6 +184,8 @@ public class Benchmarker : MonoBehaviour {
         rt = new RenderTexture(1024, 1024, 0);
         rt.enableRandomWrite = true;
         rt.Create();
+        PrintLineGPU($"Created render texture at {sw.ElapsedMilliseconds} ms");
+        yield return new WaitForEndOfFrame();
         for(int i = 0; i < 1200; i++) {
             computeShader.SetFloat("iTime", Time.time);
             computeShader.SetFloats("iResolution", rt.width, rt.height);
@@ -191,6 +195,7 @@ public class Benchmarker : MonoBehaviour {
         }
 
         sw.Stop();
+        rt.Release();
         PrintLineGPU($"Total time: {sw.Elapsed.TotalMilliseconds} ms", Color.yellow);
     }
 
